@@ -1,0 +1,23 @@
+{
+    "name": "steam-wallpaper-download",
+    "version": "1.0.0",
+    "description": "Downloads wallpapers for games owned by a nominated steam account.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "command-line-args": "latest",
+        "command-line-usage": "latest",
+        "steam-api": "latest",
+        "loading-spinner": "latest",
+        "request": "latest",
+        "xml2js": "latest",
+        "util": "latest",
+        "fs": "latest",
+        "sanitize-filename": "latest",
+        "dns": "latest"
+    },
+    "author": "laforge0780",
+    "license": "MIT"
+}

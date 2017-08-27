@@ -1,0 +1,9 @@
+# ignore komodo project files
+*.komodoproject
+
+# ignore komodo tools directory
+.komodotools
+
+images/*
+node_modules/*
+wallpapers/*
